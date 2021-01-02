@@ -40,8 +40,6 @@ test('minify and convert a JPG to AVIF', async t => {
 
 	await execa(cavif, args);
 	const result = await compareSize(src, dest);
-	console.log(result[src])
-	console.log(result[dest])
 
 	t.true(result[dest] < result[src]);
 });
