@@ -2,6 +2,8 @@
 
 cavif bin-wrapper that makes it seamlessly available as a local dependency
 
+> I hope that this package will be part of the imagemin plugins as an [imagemin-avif](https://github.com/nucliweb/imagemin-avif) `WIP`
+
 ## About AVIF
 
 <img src="https://github.com/nucliweb/cavif-bin/blob/main/assets/AV1.svg?raw=true" align="right"
