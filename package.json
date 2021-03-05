@@ -1,6 +1,6 @@
 {
   "name": "cavif-bin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "cavif bin-wrapper that makes it seamlessly available as a local dependency",
   "main": "index.js",
   "bin": {
@@ -49,6 +49,6 @@
     "compare-size": "^3.0.0",
     "execa": "^5.0.0",
     "tempy": "^1.0.0",
-    "xo": "^0.37.1"
+    "xo": "^0.38.2"
   }
 }
