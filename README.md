@@ -13,7 +13,7 @@ cavif bin-wrapper that makes it seamlessly available as a local dependency
 
 ## Underhood
 
-`cavif-bin` use [cavif](https://github.com/kornelski/cavif-rs) **v0.6.4** with [BSD 3-Clause License](https://github.com/kornelski/cavif-rs/blob/main/LICENSE) and Copyright (c) 2020, [Kornel](https://github.com/kornelski), as a AVIF coder.
+`cavif-bin` use [cavif](https://github.com/kornelski/cavif-rs) **v0.6.6** with [BSD 3-Clause License](https://github.com/kornelski/cavif-rs/blob/main/LICENSE) and Copyright (c) 2020, [Kornel](https://github.com/kornelski), as a AVIF coder.
 
 ### Encoder options
 
